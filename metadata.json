@@ -1,0 +1,6 @@
+{
+  "name": "Ar-Riyadhoh: Bahasa Arab Kelas 8 MTs (4 Maharah & Tarkib)",
+  "description": "Aplikasi pembelajaran interaktif Bahasa Arab MTs Kelas 8 Kemenag materi Ar-Riyadhoh (الرياضة - Olahraga) dengan 4 Maharah (Istima', Kalam, Qira'ah, Kitabah), materi Qawa'id Tarkib, kuis interaktif, dan Ustadz AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
